@@ -4,7 +4,16 @@
       "version": "file:com.careboo.reject",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.careboo.serially": "0.1.2"
+      }
+    },
+    "com.careboo.serially": {
+      "version": "0.1.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://npm.pkg.github.com/@careboo"
     },
     "com.unity.ext.nunit": {
       "version": "1.0.0",
